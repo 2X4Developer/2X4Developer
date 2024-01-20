@@ -12,9 +12,6 @@
       context of an SVG document
     -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .fr{ width: 100%; height: 100%; background-color: green; }
-      </style>
       <div class="fr">fr</div>
     </div>
   </foreignObject>
