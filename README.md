@@ -12,7 +12,10 @@
       context of an SVG document
     -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <img src="https://media.discordapp.net/attachments/1198268586779758722/1198268644594045059/ezgif.com-video-to-gif-converted.gif">
+      <style>
+        .fr{ width: 100%; height: 100%; background-color: green; }
+      </style>
+      <div class="fr">fr</div>
     </div>
   </foreignObject>
 </svg>
