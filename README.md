@@ -12,7 +12,7 @@
       context of an SVG document
     -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <h1>dso col</h1>
+      <img src="https://media.discordapp.net/attachments/1198268586779758722/1198268644594045059/ezgif.com-video-to-gif-converted.gif?ex=65be49a3&is=65abd4a3&hm=b574cd370c815455eaa35dbec4acc81f6483337fe37e2de39cced03b21a7553d">
     </div>
   </foreignObject>
 </svg>
