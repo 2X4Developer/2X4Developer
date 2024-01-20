@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    div {
-      color: white;
-      font: 18px serif;
-      height: 100%;
-      overflow: auto;
-    }
-  </style>
 
   <polygon points="5,5 195,10 185,185 10,195" />
 
@@ -20,9 +12,7 @@
       context of an SVG document
     -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis mollis
-      mi ut ultricies. Nullam magna ipsum, porta vel dui convallis, rutrum
-      imperdiet eros. Aliquam erat volutpat.
+      <h1>dso col</h1>
     </div>
   </foreignObject>
 </svg>
