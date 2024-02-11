@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm p1xat10n
+#### PROUD PURE-BLOODED AMERICAN RAHHH 🦅
 
 #### Coding languages I have experience in
 - PHP
