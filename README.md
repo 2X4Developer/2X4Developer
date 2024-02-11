@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-##### My main languages are c# and php.
-###### I know many more to so don't be afraid to ask!
+#### Coding languages I have experience in
+- PHP
+- C#
+- JavaScript
+- HTML
+- CSS
+- Python
+- Lua
+- Go
 
 ###### Find me on discord @p1xat10n
 
